@@ -786,3 +786,12 @@ ul { list-style: none; }
     object-fit: cover;
     display: block;
 }
+.card6 {
+    top: 15%;
+    left: -40px;
+}
+
+.card7 {
+    bottom: 15%;
+    right: -40px;
+}
