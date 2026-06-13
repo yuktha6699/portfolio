@@ -772,3 +772,17 @@ ul { list-style: none; }
   .hero-buttons { flex-direction: column; align-items: stretch; }
   .floating-card { font-size: 0.75rem; padding: 8px 14px; }
 }
+
+.profile-inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-photo {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+}
